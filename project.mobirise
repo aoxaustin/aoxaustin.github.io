@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "aoxiang_homepage",
-    "currentPage": "pubs.html",
+    "currentPage": "behavior.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3423,7 +3423,7 @@
     "fintext.html": {
       "settings": {
         "meta_descr": "The details of the study on financial text analysis.",
-        "title": "Financial Text Analysis",
+        "title": "NLP for Financial Applications",
         "order": 3
       },
       "components": [
@@ -4562,7 +4562,7 @@
     "behavior.html": {
       "settings": {
         "meta_descr": "The details of the study on financial behavioral data mining",
-        "title": "Financial Behavioral Data Mining",
+        "title": "Behavioral Data Mining",
         "order": 2
       },
       "components": [
