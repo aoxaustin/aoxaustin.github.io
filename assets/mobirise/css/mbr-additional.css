@@ -2263,6 +2263,65 @@ section.lazy-placeholder:after {
     height: auto !important;
   }
 }
+.cid-ueabP2kFdT {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-ueabP2kFdT .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-ueabP2kFdT .media-container-row {
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.cid-ueabP2kFdT .mbr-text {
+  color: #767676;
+  text-align: left;
+}
+.cid-ueabP2kFdT .mbr-author-desc {
+  display: block;
+  color: #767676;
+}
+.cid-ueabP2kFdT .mbr-author-name {
+  color: #767676;
+}
+.cid-ueabP2kFdT .mbr-testimonial .panel-item {
+  background-color: #ffffff;
+}
+.cid-ueabP2kFdT .mbr-testimonial .card-block {
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  padding: 2.4rem 2.4rem 0 2.4rem;
+}
+.cid-ueabP2kFdT .mbr-testimonial .card-block .testimonial-photo {
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.cid-ueabP2kFdT .mbr-testimonial .card-block .testimonial-photo img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-ueabP2kFdT .mbr-testimonial .card-footer {
+  padding-bottom: 2.4rem;
+  border-top: 0;
+  padding-top: 1rem;
+  word-wrap: break-word;
+  word-break: break-word;
+  background: none;
+}
+@media (max-width: 300px) {
+  .cid-ueabP2kFdT .testimonial-photo {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
 .cid-rpXBYSI8NE {
   padding-top: 120px;
   padding-bottom: 0px;
